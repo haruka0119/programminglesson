@@ -1,4 +1,4 @@
-package co.jp.fujixerox.employee;
+package co.jp.higuschool.employee;
 
 public class EmpEntity {
 

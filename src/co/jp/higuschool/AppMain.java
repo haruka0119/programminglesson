@@ -1,12 +1,12 @@
-package co.jp.fujixerox;
+package co.jp.higuschool;
 
 import java.util.List;
 import java.util.ResourceBundle;
 
-import co.jp.fujixerox.employee.AbstractCompany;
-import co.jp.fujixerox.employee.CompanyFactory;
-import co.jp.fujixerox.employee.EmpEntity;
-import co.jp.fujixerox.employee.Employee;
+import co.jp.higuschool.employee.AbstractCompany;
+import co.jp.higuschool.employee.CompanyFactory;
+import co.jp.higuschool.employee.EmpEntity;
+import co.jp.higuschool.employee.Employee;
 /**
  * csvの内容を表示する
  *

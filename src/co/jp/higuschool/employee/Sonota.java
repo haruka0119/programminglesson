@@ -1,17 +1,17 @@
-package co.jp.fujixerox.employee;
+package co.jp.higuschool.employee;
 
-public class Systembu extends AbstractCompany {
+public class Sonota extends AbstractCompany {
 
 	@Override
 	public void sectionInfo() {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("システム部です");
+		System.out.println("その他です");
 	}
 
 	@Override
 	public void showInfo() {
 		// TODO 自動生成されたメソッド・スタブ
-		System.out.println("プログラムの仕事をしています");
+		System.out.println("自分でもよくわかっていません");
 	}
 
 }
