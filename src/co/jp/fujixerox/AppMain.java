@@ -7,7 +7,12 @@ import co.jp.fujixerox.employee.AbstractCompany;
 import co.jp.fujixerox.employee.CompanyFactory;
 import co.jp.fujixerox.employee.EmpEntity;
 import co.jp.fujixerox.employee.Employee;
-
+/**
+ * csvの内容を表示する
+ *
+ * @author haruka
+ *
+ */
 public class AppMain {
 	public static void main(String[] args) throws Throwable {
 		String filePath_key = "FilePath";
